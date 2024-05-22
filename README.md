@@ -1,4 +1,4 @@
-# [Seu Nome](https://github.com/username)
+# [{{ github.event.repository.owner.login }}](https://github.com/{{ github.event.repository.owner.login }})
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -26,14 +26,14 @@
 
 ### :fire: Estatísticas do GitHub :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={{ github.event.repository.owner.login }}&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ### :woman_technologist: Sobre mim :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=seu-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user={{ github.event.repository.owner.login }}&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
-[![Profile views](https://komarev.com/ghpvc/?username=seu-github-username&style=flat-square&color=blue)](https://github.com/username)
+[![Profile views](https://komarev.com/ghpvc/?username={{ github.event.repository.owner.login }}&style=flat-square&color=blue)](https://github.com/username)
