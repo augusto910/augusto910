@@ -22,8 +22,8 @@ O README é atualizado automaticamente todos os dias às 6h UTC ou manualmente e
 ## Projetos em Destaque
 
 <!-- PROJECTS:START -->
-- [n8n](https://github.com/augusto910/n8n): Estudo de automação com n8n
 - [augusto910](https://github.com/augusto910/augusto910): Config files for my GitHub profile.
+- [n8n](https://github.com/augusto910/n8n): Estudo de automação com n8n
 - [LaravelSpot](https://github.com/augusto910/LaravelSpot): Sem descrição.
 <!-- PROJECTS:END -->
 
